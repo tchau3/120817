@@ -1,0 +1,27 @@
+---
+title: Tung Chau
+timezone: America/Philadelphia
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/blog/:title"
+name: Tung Chau
+description: Writings in art history and visual culture
+google_verification: 
+include:
+- ".htaccess"
+exclude:
+- README.md
+- LICENSE
+sass:
+  style: compressed
+  sass_dir: _sass
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
