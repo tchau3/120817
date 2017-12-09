@@ -62,11 +62,11 @@ All three texts have tried to solve the paradox posed by masochism, i.e. pleasur
 
  
 <ul>Works Cited
-  <li>Freud, Sigmund, James Strachey, and Gregory Zilboorg. Beyond the Pleasure Principle. New York: Norton, 1975.</li>
-  <li>Freud, Sigmund and J. Strachey, A Case of Hysteria, Three Essays on Sexuality and Other Works, from The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. VII (1901-1905). London: The Hogarth Press and the Institute of Psychoanalysis, 1953.</li>
-  <li>Freud, Sigmund. “A Child is Being Beaten – A Contribution to the Study of the Origin of Sexual Perversions”. Int. J. Psycho-Anal, 1:371-395, 1920.</li>
-  <li>Freud, Sigmund. From the History of an Infantile Neurosis. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917-1919): An Infantile Neurosis and Other Works, 1-124, 1918.</li>
-  <li>Laplanche, Jean. “Why the Death Drive?” Life and Death in Psychoanalysis. Baltimore: Johns Hopkins Univ. Press, 1976.</li>
+  <li>Freud, Sigmund, James Strachey, and Gregory Zilboorg. <em>Beyond the Pleasure Principle</em>. New York: Norton, 1975.</li>
+  <li>Freud, Sigmund and J. Strachey, <em>A Case of Hysteria, Three Essays on Sexuality and Other Works</em>, from <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud</em>, vol. VII (1901-1905). London: The Hogarth Press and the Institute of Psychoanalysis, 1953.</li>
+  <li>Freud, Sigmund. “A Child is Being Beaten – A Contribution to the Study of the Origin of Sexual Perversions.” <em>Int. J. Psycho-Anal, 1:371-395, 1920</em>.</li>
+  <li>Freud, Sigmund. <em>From the History of an Infantile Neurosis. The Standard Edition of the Complete Psychological Works of Sigmund Freud</em>, Volume XVII (1917-1919): An Infantile Neurosis and Other Works, 1-124, 1918.</li>
+  <li>Laplanche, Jean. “Why the Death Drive?” <em>Life and Death in Psychoanalysis</em>. Baltimore: Johns Hopkins Univ. Press, 1976.</li>
 </ul>
 
 
