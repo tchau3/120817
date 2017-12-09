@@ -25,7 +25,7 @@ Despite their different provenance, there seem to be some familiarity between th
   <img src="/assets/img/tchau-st-michel-de-cuxa-sirens.jpg" alt="capital-PMA-1.jpg" width="250">
   <figcaption class="caption">Fig. 2 Cloister capital from St. Michel-de-Cuxa with four Sirens. New York. The Metropolitan Museum of Art, The Cloisters Collection, 25.130.837 (Photo: David Simon).</figcaption>
 </figure>
-
+<br>
 Around the same time, the duo also trickles into local practices. Priscilla Baumann’s study of capitals at eight different Romanesque churches in Auvergne, south-central France offers ample analogies to the object of interest. At Maringues, Sait-Myon, Orcival and Chanteuges, she found numerous examples of avarice being depicted as wearing a moneybag around his neck, naked (except for the one at Chanteuges) and assaulted by a pair of demonic creatures. Even when the punishers are evidently human, as in case with Ennezat (Fig. 3), the voice of the devil echoes in an inscription that reads CANDO USURAM ACCEPISTI OPERA MEA FECISTI (“since you have practiced usury, you have done my work”) . A striking parallel between these and the avarice scene on PMA’s capital, particularly in the frontality and rigidity of the sinner’s pose and the symmetry in composition, sheds light on the latter’s origin. If, like Baumann suggests, such motif is indeed “within the confines of Auvergne ,” then the PMA capital may well have abutted the Clermont-Brioude route. The only glitch in this theory is that it does not account for the monstrous mouth in the scene, nor does it explain the image of blasphemy on the other side. Instead, both of these elements are found in the tympanum of Ste. Foy, Conques – this is a comparison that Baumann refrains from making because it will contradict her point about a localized concern over avarice and usury. In our case, however, it would be hard to ignore the dialogues exchanged between the giant wolf head emerging from the Hell Gate who is in the process of devouring a sinner (Fig. 4) and its counterpart on the PMA capital. So much alike are the treatments of mane, eyes, snout, and claws that their connection should not be dismissed. Torture of the sin of the tongue is represented twice: once with the ballad singer and once with the blasphemer. Not to mention the same fibered muscles in the demons, the gnarling of limbs, and the articulation of strain and tension caused by physical contact. Bridging the local and the regional, the PMA capital shows how the visual trope of demons punishing the sins and the type of relationship it establishes between actions and consequences, between human desires and demonic forces, was in fact a widespread phenomenon. The next section will focus on the sociohistorical factors surrounding this proliferation.
 
 <figure>
@@ -37,7 +37,7 @@ Around the same time, the duo also trickles into local practices. Priscilla Baum
   <img src="/assets/img/tchau-tympanum-st-foy.jpg" alt="tympanum-st-foy.jpg" width="300">
   <figcaption class="caption">Fig. 4 Detail of tympanum of Ste. Foy at Conques (Photo: Adrian Fletcher).</figcaption>
 </figure>
-
+<br>
 II.
 
 Scholarly texts on this subject tend to attribute the sudden multiplication of such imagery to two interrelated factors. The first is external, and has to do with a desire to tighten societal control, an initiative taken towards ecclesiastical reform, or a legislative act passed to institutionalize individual conscience. Scholars who advocate this view often see the trope’s presence tympana, capitals, and door jambs as an effort to accompany some systematic renovation. This view is supplemented by a second, internal factor concerning a personal and persistent need for soul-cleansing.
@@ -55,23 +55,12 @@ Eva Kimminich, writing about mass psychology of this time, is able to discern a 
  
 <ul>Work Cited
   <li>Ambrose, Kirk. “Attunement to the Damned of the Conques Tympanum.” Gesta 50, no. 1 (2011): 1-17. Baumann, Priscilla. “The Deadliest Sin: Warning against Avarice and Usury on Romanesque Capitals in Auvergne.” Church History 59, no. 1 (Mar., 1990): 7-18.</li>
-Braswell, Mary F. . The Medieval Sinner: Characterization and Confession in the Literature 
-  of the English Middle Ages. East Beunswick, NJ: Farleigh Dickinson University Press, 
-  1983.
-Dale, Thomas E. A. . “Monsters, Corporeal Deformities, and Phantasms in the Cloister of 
-  St-Michel-de-Cuxa.” The Art Bulletin 83, no. 3 (Sep., 2001): 402-436.
-Gombrich Ernst H. . The Sense of Order: A Study in the Psychology of Decorative Art. 
-  Oxford: Oxford University Press, 1979.
-Katzenellenbogen, A. “Part II. Static Representations of Systems of Virtues and Vices” In 
-  Allegories of the Virtues and Vices in Medieval Art, 27-76. New York: The Norton Library, 
-  1964.
-McManamy, Kevin William. “The Demonic Capitals at Vezelay.” Master’s thesis, University 
-  of Wisconsin-Madison, 1993.
-Newhauser, Richard. The Early History of Greed: The Sin of Avarice in Early Medieval 
-  Thought and Literature. Cambridge University Press, 2000.
-Prudentius, Psychomachia. Trans. H. J. Thomson. Cambridge: Harvard University Press, 1988.
-Sütterlin, Christa. “Universals in Apotropaic Symbolism: A Behavioral and Comparative 
-  Approach to Some Medieval Sculptures.” Leonardo 22, no. 1, Art and the New Biology: 
-  Biological Forms and Patterns (1989): 65-74.
+  <li>Braswell, Mary F. . The Medieval Sinner: Characterization and Confession in the Literature of the English Middle Ages. East Beunswick, NJ: Farleigh Dickinson University Press, 1983.</li>
+  <li>Dale, Thomas E. A. . “Monsters, Corporeal Deformities, and Phantasms in the Cloister of St-Michel-de-Cuxa.” The Art Bulletin 83, no. 3 (Sep., 2001): 402-436.</li>
+  <li>Gombrich Ernst H. . The Sense of Order: A Study in the Psychology of Decorative Art. Oxford: Oxford University Press, 1979. Katzenellenbogen, A. “Part II. Static Representations of Systems of Virtues and Vices” In Allegories of the Virtues and Vices in Medieval Art, 27-76. New York: The Norton Library, 1964.</li>
+  <li>McManamy, Kevin William. “The Demonic Capitals at Vezelay.” Master’s thesis, University of Wisconsin-Madison, 1993.</li>
+  <li>Newhauser, Richard. The Early History of Greed: The Sin of Avarice in Early Medieval Thought and Literature. Cambridge University Press, 2000.</li>
+  <li>Prudentius, Psychomachia. Trans. H. J. Thomson. Cambridge: Harvard University Press, 1988.</li>
+  <li>Sütterlin, Christa. “Universals in Apotropaic Symbolism: A Behavioral and Comparative Approach to Some Medieval Sculptures.” Leonardo 22, no. 1, Art and the New Biology: Biological Forms and Patterns (1989): 65-74.</li>
 </ul>
 
