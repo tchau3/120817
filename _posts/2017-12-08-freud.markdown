@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Development of Freud's Concept of Masochism"
-date:   2017-12-08 14:03:26 -0400
+date:   2017-06-01 02:16:00 -0400
 categories: research
 ---
             
@@ -61,22 +61,13 @@ and the implications are as follows:
 All three texts have tried to solve the paradox posed by masochism, i.e. pleasure = pain. In The Wolf Man, we see an alignment of masochism with femininity and pleasure obtained not in a genital but moral sense. Thought as sadism turned inward, masochism as a general attack on the self and the ego produces pleasure through atonement, the allaying of guilt. This guilt is none other than that felt toward the phallus and being so close to losing it and forfeiting the precious masculinity. In A Child is being Beaten masochism is localized to the genitals and a point-to-point mapping of pleasure and pain is attempted. It is found that pleasure = pain only works in the realm of the unconscious, since the latter often disguises things as their opposites to make them acceptable to the rational, and one should add heterosexual, mind. The incestuous sexual desire for the father is repressed in this way and “loving” is disguised as “beating.” Finally, in Beyond the Pleasure Principle, the paradox is taken up in economic terms. We find that “pain” as a rush of energy is in fact a part of pleasure, called “pleasure of the drive.” The ability to withstand a rise in stimuli and enjoy it, in one word, the masochist instinct, is carried back to the origin and hailed as a necessary condition for life.
 
  
-<b>Works Cited</b>
-Freud, Sigmund, James Strachey, and Gregory Zilboorg. Beyond the Pleasure Principle. New 
-York: Norton, 1975.
-
-Freud, Sigmund and J. Strachey, A Case of Hysteria, Three Essays on Sexuality and Other 
-Works, from The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. VII (1901-1905). London: The Hogarth Press and the Institute of Psychoanalysis, 1953.
-
-Freud, Sigmund. “A Child is Being Beaten – A Contribution to the Study of the Origin of 
-Sexual Perversions”. Int. J. Psycho-Anal, 1:371-395, 1920.
-
-Freud, Sigmund. From the History of an Infantile Neurosis. The Standard Edition of the 
-Complete Psychological Works of Sigmund Freud, Volume XVII (1917-1919): An 
-Infantile Neurosis and Other Works, 1-124, 1918.
-
-Laplanche, Jean. “Why the Death Drive?” Life and Death in Psychoanalysis. Baltimore: 
-  Johns Hopkins Univ. Press, 1976.
+<ul>Works Cited
+  <li>Freud, Sigmund, James Strachey, and Gregory Zilboorg. Beyond the Pleasure Principle. New York: Norton, 1975.</li>
+  <li>Freud, Sigmund and J. Strachey, A Case of Hysteria, Three Essays on Sexuality and Other Works, from The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. VII (1901-1905). London: The Hogarth Press and the Institute of Psychoanalysis, 1953.</li>
+  <li>Freud, Sigmund. “A Child is Being Beaten – A Contribution to the Study of the Origin of Sexual Perversions”. Int. J. Psycho-Anal, 1:371-395, 1920.</li>
+  <li>Freud, Sigmund. From the History of an Infantile Neurosis. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917-1919): An Infantile Neurosis and Other Works, 1-124, 1918.</li>
+  <li>Laplanche, Jean. “Why the Death Drive?” Life and Death in Psychoanalysis. Baltimore: Johns Hopkins Univ. Press, 1976.</li>
+</ul>
 
 
 
