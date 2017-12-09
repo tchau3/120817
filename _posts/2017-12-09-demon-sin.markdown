@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "Clash of Two Evils: Depiction of Demons Punishing the Sins on Romanesque Capitals"
-date:   2017-10-05 14:03:26 -0400
-categories: curatorial
+date:   2014-10-13 12:02:00 -0400
+categories: research
 ---
 <!--excerpt.start-->
 In a recreated cloister from 12th century France, at the Philadelphia Museum of Art, a Romanesque capital shows grotesque scenes of demons punishing Avarice and Blasphemy (Fig. 1). This bell-shaped component, measuring 11-1/2 inches in height and 8 inches in length and width, crowns an unfluted, slender column that raises the work to eye level. Little is known about the artist except that he made the work around 1175-1200 in Southern France. Made to be viewed in the round, the capital is covered with stone relief on all four sides: the two major scenes showing punitive rituals are placed back to back, while the sides in between, crawling with serpents/dragons that sprout from the demons’ torsos, serve both as a continuation of the narrative and a completion to the all-round design. In one scene, the capital shows a personification of Blasphemy having his tongue pulled by a tong and his hand bitten by a snake. On the opposite side, an emaciated Avarice, weighed down by a bag of gold around his shoulders, descends into the mouth of a monster. His arms are clutched by two demons (one of the which has been effaced) and his legs by a pair of claws. In both scenes, theatricality overtakes naturalism as the naked, boneless limbs of the sinners contort into impossible angles – one of the blasphemer’s kicking legs even bends around the corner into the next frame. Moral message is carried through expressiveness: the grooves in the demons’ draperies and wings, and the tactile quality of his scales do not make credible the figures but serve merely as a symbol for evil forces and a means to exact fear from the viewer. The sinner’s bulging eyes and clutching hands not only convey but also transfuse his state of excruciating pain. The head and hand of the characters are exaggerated so that as monks stroll pass the capital, they can feel the action jut out of its plane into the viewer’s space. The message of admonition is made most explicit when the demons stare maliciously out at their next victim in real life.
 
 <figure>
-  <img src="/assets/img/tchau-capital-PMA-1.jpg" alt="capital-PMA-1.jpg" width="250">
-  <img src="/assets/img/tchau-capital-PMA-2.jpg" alt="capital-PMA-2.jpg" width="250">
+  <img src="/assets/img/tchau-capital-PMA-1.jpg" alt="capital-PMA-1.jpg" width="150">
+  <img src="/assets/img/tchau-capital-PMA-2.jpg" alt="capital-PMA-2.jpg" width="150">
   <figcaption class="caption">Fig. 1 Capital with Demons Punishing the Sins of Avarice and Blasphemy. Philadelphia. Philadelphia Museum of Art, European Art 1100-1500 (Photo: author).</figcaption>
 </figure>
-
+<br>
 The power dynamic between the demon and the sins is so stark that it is easy to miss a subtle kinship between the two types of evil, that is, the corrupted morality of the sinner and the inherent monstrosity of the punisher. The coming together of the two in this particular manner, in an autophagy of evil forces, begs further investigations into the nature of their union and its place in the medieval consicence. In the first part of this paper, I will show the visual aspects of the union, bringing in relevant works in geographic and temporal proximity as well as historical precedents, with the hope of establishing the PMA capital as part of a wider praxis to spread punitive imagery. The second part will try to account for why this trope grew in number. Combining theories in psychology, history, science, and behavioral studies, this section illustrates how changes in visual schemes can result from a summation of societal factors. Finally, I will revisit the PMA capital with analytical tools borrowed from the second part, and contextualize it within the 12th century French monastic setting.
 
 I.
@@ -34,7 +34,7 @@ Around the same time, the duo also trickles into local practices. Priscilla Baum
 </figure>
 
 <figure>
-  <img src="/assets/img/tchau-tympanum-st-foy.jpg" alt="tympanum-st-foy.jpg" width="500">
+  <img src="/assets/img/tchau-tympanum-st-foy.jpg" alt="tympanum-st-foy.jpg" width="300">
   <figcaption class="caption">Fig. 4 Detail of tympanum of Ste. Foy at Conques (Photo: Adrian Fletcher).</figcaption>
 </figure>
 
@@ -53,10 +53,8 @@ Using the information above, we can now perceive the PMA capital as not only a c
 Eva Kimminich, writing about mass psychology of this time, is able to discern a growing interest in psychology of the individual. Although speaking of a latter time (14th and 15th century) and having at her disposal Giotto and Dante, her point about the “humanization of sins,” the inward movement of the battle between Vice and Virtue and the assimilation of demonic beings into human desires, has in fact seen its light three centuries ago, in the PMA capital. Transitioning from the naïve optimism of Psychomachia, where the battle is between the Devil and the Savior, to the increasingly ramified and personalized conception of sin in Late Medieval literature and theatre, where the battle is between the man and himself, the capital at PMA stands as a testimony to the a fundamental shift in the Christian doctrine of sin.
 
  
-Work Cited
-Ambrose, Kirk. “Attunement to the Damned of the Conques Tympanum.” Gesta 50, no. 1 (2011): 1-17.
-Baumann, Priscilla. “The Deadliest Sin: Warning against Avarice and Usury on Romanesque 
-  Capitals in Auvergne.” Church History 59, no. 1 (Mar., 1990): 7-18.
+<ul>Work Cited
+  <li>Ambrose, Kirk. “Attunement to the Damned of the Conques Tympanum.” Gesta 50, no. 1 (2011): 1-17. Baumann, Priscilla. “The Deadliest Sin: Warning against Avarice and Usury on Romanesque Capitals in Auvergne.” Church History 59, no. 1 (Mar., 1990): 7-18.</li>
 Braswell, Mary F. . The Medieval Sinner: Characterization and Confession in the Literature 
   of the English Middle Ages. East Beunswick, NJ: Farleigh Dickinson University Press, 
   1983.
@@ -75,4 +73,5 @@ Prudentius, Psychomachia. Trans. H. J. Thomson. Cambridge: Harvard University Pr
 Sütterlin, Christa. “Universals in Apotropaic Symbolism: A Behavioral and Comparative 
   Approach to Some Medieval Sculptures.” Leonardo 22, no. 1, Art and the New Biology: 
   Biological Forms and Patterns (1989): 65-74.
+</ul>
 
