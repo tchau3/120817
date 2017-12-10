@@ -5,8 +5,7 @@ date:   2016-04-19 20:07:00 -0400
 categories: research
 ---
 
-<!--excerpt.start-->
-  <strong>Psychologization</stong>
+  <strong>Psychologization</strong>
   
   From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." <em>Art History</em> 9, no. 2 (June 1986): 168-184.
   
@@ -21,18 +20,21 @@ categories: research
   
   <br>
   <b>Aestheticization</b>
+  
   From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
   
   Aestheticization is the extreme stylization of figures to achieve a timeless form of art. The practice is thought to signal a turn in David’s career, when he came under the influences of Wincklemann, Lessing, and Quatremère de Quincy, who called for abjectness in both politics and art in the post-revolutionary era. The example given is David’s Intervention of the Sabine Women (1799), a work that suspends all actions, flattens out the space, freezes the narrative, uses relief-like Greek nudes as personifications of aesthetic values, and incorporates composition into the meaning of the image. In using what he thought to be timeless forms, David strove to convey meaning that does not derive from a specific time, place, or viewer, but is intrinsic to its elements. With Sabine, art becomes autonomous - l’art pour l’art - in that it conveys a permanent validity that is the beau ideal embedded in the figures, not the shifting political norm. This method is believed to have altered the social role of art by making it accessible to all.
   
   <br>
   <b>Urban/Rural Identity</b>
+  
   From TJ Clark.
   
   Urban/Rural identity is a class and social identity that distinguishes between those from the town and those from the country around the year 1851, particularly in Paris and Dijon. At that time, both cities were experiencing increasing gentrification of the countryside and rural invasion of the city -- a pattern that destabilized the old structure of the city and created a mosaic urban population. Along with migration came the awakening of an urban consciousness, an urge to draw a clear line between one’s newly acquired bourgeois status and his old peasant past. This division, Clark argues, is responsible for the initial polarization of Courbet’s art as socialist, i.e. an anti-bourgeois art of the people. The same division, however, is fuzzy at best and left many contemporary critics wondering about Courbet and his attitude towards this hybrid class. Courbet painted with a public in mind -- one where everyone is at a different point in his/her transition to middle-class and where social mobility is at its height. While this public would rather ignore their in-between states, Courbet painted the rural/urban bourgeois to remind them of their shaky new identity.
   
   <br>
   <b>Classicism</b>
+  
   From Suzanne Marchand.
   
   Classicism is a new classicist approach born out of the neoromantic, psychological turn in late 19th century German cultural politics; an example being Arnold Böcklin. Unlike Crow’s classicism, this approach favors the dark, erotic, poetic, and anti-philological world of Pan to the rational, liberal-positivist world of Apollo. Instead of taking from the grand Greco-Roman tradition, Böcklin sought inspiration in the Urgeschichte or pre-literary era, often associated with a more “primitive” part of the psyche. Iconographies and references are omitted from his canvases, replaced by imaginary scenes of nymphs, fauns, and demi-gods depicted in an erudite style with influences from Renaissance, Baroque, Pompeian frescoes, and rococo. Naturalistic precision is juxtaposed with fictive content to construct an idyllic world where one can escape modernity’s destruction of the humanist ideals. Action is subdued by mood, moral lesson by psychological appeal -- the symbolic meaning of the painting becomes entirely subjective. Marchand sees this style as consistent with the “turn inward” both in Freud and the Basel thinkers (e.g. Nietzsche) of the 1880’s. Classists of this kind believed that “antiquity” is a modern construct and that classics can only be made by looking at one’s own time.
