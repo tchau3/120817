@@ -8,7 +8,7 @@ categories: curatorial
   <img src="/assets/img/schneider-dazzle.jpg" alt="schneider-dazzle.jpg" width="500">
   <figcaption class="caption">Carrie Schneider, <em>Dazzle Camouflage (for Peter)</em>, 2008</figcaption>
 </figure>
-
+<br>
 <!--excerpt.start-->
 <em>Originally written as wall texts for Schneider’s exhibition at Slought (4017 Walnut St, Philadelphia)</em>
 

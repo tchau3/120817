@@ -5,9 +5,9 @@ date:   2017-10-05 14:03:26 -0400
 categories: curatorial
 ---
 <figure>
-  <img src="/assets/img/schneider-yvonne-reading.jpg" alt="schneider-yvonne-reading.jpg" width="500" />
-  <figcaption class="caption">Carrie Schneider, <em>Yvonne Rainer reading (What's so funny? Laughter and Anger in the Time of the Assassins: A
-  Lecture by Yvonne Rainer</em>), 2016</figcaption>
+  <img src="/assets/img/tchau-yvonne-reading-slought.jpg" alt="schneider-yvonne-reading.jpg" width="500" />
+  <figcaption class="caption">Installation view of Carrie Schneider, <em>Yvonne Rainer reading (What's so funny? Laughter and Anger in the Time of the Assassins: A
+  Lecture by Yvonne Rainer</em>), 2016. Courtesy of Slought. Photo: Elliot Krasnopoler</figcaption>
 </figure>
 <br>            
 <em><!--excerpt.start-->Originally written as wall texts for Schneider’s exhibition at Slought (4017 Walnut St, Philadelphia)</em>
