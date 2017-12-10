@@ -45,7 +45,7 @@ It is in the most forgiving language of the unconscious, then, that we find the 
 What has become increasing clear to Freud in A Child is Being Beaten is that the unconscious has its own way of perceiving pleasure so that life remains livable. The five or six year old who is “cheated out” of the oedipal complex, of incestuous love permissible in a world without male-female distinctions, must deal with vestiges of these early times in a way that allows him/her to develop normally. S/he chooses to bury them deep, give them a different façade, even if it means this façade is pain. For the unconscious, it just has to be pleasurable enough to sustain life.
 
 <br>
-<p style="text-align: center;"> **III. Death Drive as Masochism** </p>
+<p style="text-align: center;"> <strong> Death Drive as Masochism</strong> </p>
 
 Already one sees emerging from A Child a link between trauma and sexuality. To enter into genital-organization, thus take on the rôle of a phallus or a vagina, the child must be shocked out of an earlier, undifferentiated state. When the Wolf Man woke up from the primal scene screaming, having now fully grasped the reality of castration and, by extension, the two sexes, he showed us that sexuality is traumatic in nature. At this point we can imagine the child, who now knows the right way forward, being unable to leave behind that world of androgyny. We can safely say that masochism, by disguising illicit pleasure as pain, is his way of returning to a time past.
 
