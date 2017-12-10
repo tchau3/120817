@@ -5,7 +5,7 @@ date:   2016-04-19 20:07:00 -0400
 categories: research
 ---
 
-  <strong>Psychologization</strong>
+  <h2>Psychologization</h2>
   
   From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." <em>Art History</em> 9, no. 2 (June 1986): 168-184.
   
