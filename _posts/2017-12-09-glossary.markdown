@@ -6,35 +6,36 @@ categories: research
 ---
 
 <!--excerpt.start-->
-<dl>
-  <dt>Psychologization</dt>
-  <dd>From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
-  <br>
+  <b>Psychologization</b>
+  
+  From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
+  
   Psychologization is an attempt to make obsolete Classical themes relevant to France in the second half of the 18th century. In Berthélemy’s Manlius Torquatus, which depicts the consul condemning his own son to death, psychologization is the externalization of the hero’s inner struggle of love versus law via exaggerated gesture and compositional crescendo. Inspired by Rousseau (1762) and Directeur Général des Bâtiments du Roi (1777), this practice both revives and contests classical themes, such as one’s duty to the state and to family, to provoke contemporary response. The result is a “sujet tragique” wherein the modern hero is at the mercy of circumstances. This new hero, like his pre-revolution French contemporaries, is conflicted about classical civic virtues of patrie and citoyen. Germer and Kohle contend that this approach ultimately becomes a parody of itself and falls short of the desired emotional impact. An effective approach, they argue, will not be achieved until Jacques-Louis David had painted Sabines. 
-  </dd>
   
-  <dt>Classicism</dt>
-  <dd>From Crow, Thomas. “Classicism in Crisis: Gros to Delacroix.” In Eisenman, Stephen F. and Thomas E. Crow. Nineteenth Century Art: A Critical History. London: Thames & Hudson, 2007.
   <br>
+  <b>Classicism</b>
+  
+  From Crow, Thomas. “Classicism in Crisis: Gros to Delacroix.” In Eisenman, Stephen F. and Thomas E. Crow. Nineteenth Century Art: A Critical History. London: Thames & Hudson, 2007.
+  
   Traditionally, classisicm refers to the adoption of Greco-Roman tropes in the genre of history paintings. In the eighteenth to nineteenth century, however, Davidian Classicism underwent major overhaul. For one, artists began to emulate recent or contemporary masters in addition to ancient masters, and contemporary events are now acceptable as subjects. Meanwhile, more flexible modes of expression in the vein of Romanticism prevailed, and we are seeing more episodic, decentering compositions, more dynamic gestures, more vibrant colors, and more atmospheric buildup. Politically, Classicism became easily appropriated by any ideology, and are loaded with both Republican (Géricault) and Royalist (Ingres) ideals. Lastly, the “hero” is lost (e.g. Gros) and, remerges as a beaten, vulnerable individual (e.g. Géricault). Overall, Crow argues that antique forms have lost their original signification and are only drawn on by artists and patrons to serve their own agenda. He traces the classical lineage in David, Girodet, Gros, Ingres, and Géricault for painting, as well as Canova and Thorvaldsen for sculpture.
-  </dd>
   
-  <dt>Aestheticization</dt>
-  <dd>From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
   <br>
+  <b>Aestheticization</b>
+  From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
+  
   Aestheticization is the extreme stylization of figures to achieve a timeless form of art. The practice is thought to signal a turn in David’s career, when he came under the influences of Wincklemann, Lessing, and Quatremère de Quincy, who called for abjectness in both politics and art in the post-revolutionary era. The example given is David’s Intervention of the Sabine Women (1799), a work that suspends all actions, flattens out the space, freezes the narrative, uses relief-like Greek nudes as personifications of aesthetic values, and incorporates composition into the meaning of the image. In using what he thought to be timeless forms, David strove to convey meaning that does not derive from a specific time, place, or viewer, but is intrinsic to its elements. With Sabine, art becomes autonomous - l’art pour l’art - in that it conveys a permanent validity that is the beau ideal embedded in the figures, not the shifting political norm. This method is believed to have altered the social role of art by making it accessible to all.
-  </dd>
   
-  <dt>Urban/Rural Identity</dt>
-  <dd>From TJ Clark.
   <br>
+  <b>Urban/Rural Identity</b>
+  From TJ Clark.
+  
   Urban/Rural identity is a class and social identity that distinguishes between those from the town and those from the country around the year 1851, particularly in Paris and Dijon. At that time, both cities were experiencing increasing gentrification of the countryside and rural invasion of the city -- a pattern that destabilized the old structure of the city and created a mosaic urban population. Along with migration came the awakening of an urban consciousness, an urge to draw a clear line between one’s newly acquired bourgeois status and his old peasant past. This division, Clark argues, is responsible for the initial polarization of Courbet’s art as socialist, i.e. an anti-bourgeois art of the people. The same division, however, is fuzzy at best and left many contemporary critics wondering about Courbet and his attitude towards this hybrid class. Courbet painted with a public in mind -- one where everyone is at a different point in his/her transition to middle-class and where social mobility is at its height. While this public would rather ignore their in-between states, Courbet painted the rural/urban bourgeois to remind them of their shaky new identity.
-  </dd>
   
-  <dt>Classicism</dt>
-  <dd>From Suzanne Marchand.
   <br>
+  <b>Classicism</b>
+  From Suzanne Marchand.
+  
   Classicism is a new classicist approach born out of the neoromantic, psychological turn in late 19th century German cultural politics; an example being Arnold Böcklin. Unlike Crow’s classicism, this approach favors the dark, erotic, poetic, and anti-philological world of Pan to the rational, liberal-positivist world of Apollo. Instead of taking from the grand Greco-Roman tradition, Böcklin sought inspiration in the Urgeschichte or pre-literary era, often associated with a more “primitive” part of the psyche. Iconographies and references are omitted from his canvases, replaced by imaginary scenes of nymphs, fauns, and demi-gods depicted in an erudite style with influences from Renaissance, Baroque, Pompeian frescoes, and rococo. Naturalistic precision is juxtaposed with fictive content to construct an idyllic world where one can escape modernity’s destruction of the humanist ideals. Action is subdued by mood, moral lesson by psychological appeal -- the symbolic meaning of the painting becomes entirely subjective. Marchand sees this style as consistent with the “turn inward” both in Freud and the Basel thinkers (e.g. Nietzsche) of the 1880’s. Classists of this kind believed that “antiquity” is a modern construct and that classics can only be made by looking at one’s own time.
-  </dd>
+  
 
 
