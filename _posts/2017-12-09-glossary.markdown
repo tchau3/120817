@@ -6,9 +6,9 @@ categories: research
 ---
 
 <!--excerpt.start-->
-  <b>Psychologization</b>
+  <strong>Psychologization</stong>
   
-  From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." Art History 9, no. 2 (June 1986): 168-184.
+  From Germer, Stefan, and Hubertus Kohle. "From the Theatrical to the Aesthetic Hero: On the Privatization of the Idea of Virtue in David’s Brutus and Sabines." <em>Art History</em> 9, no. 2 (June 1986): 168-184.
   
   Psychologization is an attempt to make obsolete Classical themes relevant to France in the second half of the 18th century. In Berthélemy’s Manlius Torquatus, which depicts the consul condemning his own son to death, psychologization is the externalization of the hero’s inner struggle of love versus law via exaggerated gesture and compositional crescendo. Inspired by Rousseau (1762) and Directeur Général des Bâtiments du Roi (1777), this practice both revives and contests classical themes, such as one’s duty to the state and to family, to provoke contemporary response. The result is a “sujet tragique” wherein the modern hero is at the mercy of circumstances. This new hero, like his pre-revolution French contemporaries, is conflicted about classical civic virtues of patrie and citoyen. Germer and Kohle contend that this approach ultimately becomes a parody of itself and falls short of the desired emotional impact. An effective approach, they argue, will not be achieved until Jacques-Louis David had painted Sabines. 
   
