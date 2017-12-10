@@ -9,7 +9,7 @@ categories: curatorial
   <figcaption class="caption">Carrie Schneider, <em>Yvonne Rainer reading (What's so funny? Laughter and Anger in the Time of the Assassins: A
   Lecture by Yvonne Rainer</em>), 2016</figcaption>
 </figure>
-            
+<br>            
 <em><!--excerpt.start-->Originally written as wall texts for Schneider’s exhibition at Slought (4017 Walnut St, Philadelphia)</em>
 
 In this video, Yvonne Rainer delivers a lecture she gave for the independent study program at the Whitney Museum, which grapples with the kind of
